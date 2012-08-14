@@ -19,15 +19,21 @@ Sample_project1
    <div id="div_top">
 
       <div id="div_top_home">
+         
+           HOME
       </div>
 
       <div id="div_top_sec">
+
+           SEC
+
       </div>
 
    </div>
    <div id="div_left">
      
        <div id="div_left_home1">
+
        </div>
 
        <div id="div_left_home2">
