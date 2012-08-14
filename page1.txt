@@ -48,13 +48,17 @@ Sample_project1
    </div>
 <!-- main body. by arun -->
 <div id="div_content">
- <div id="div_content_home1" style="position:absolute; left:20%; top:10%; background:#333">
+ <div id="div_content_home1" style="position:absolute; left:20%; top:10%; background:#333;">
+ This is a testing project to study about the tool github
  </div>
  <div id="div_content_home2" style="position:absolute; left:20%; top:10%; background:#333">
+ Github can be used for parallel coding progress
  </div>
  <div id="div_content_sec1" style="position:absolute; left:20%; top:10%; background:#333">
+ There are several coureses availabile in codeschool
  </div>
  <div id="div_content_sec2" style="position:absolute; left:20%; top:10%; background:#333">
+ Courses for premium and free
  </div>
 </div>
 
