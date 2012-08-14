@@ -16,11 +16,30 @@ Sample_project1
 <div id="div_main">
 
 <!-- top links -->
-<div id="div_top">
-</div>
-<div id="div_left">
-</div>
+   <div id="div_top">
 
+      <div id="div_top_home">
+      </div>
+
+      <div id="div_top_sec">
+      </div>
+
+   </div>
+   <div id="div_left">
+     
+       <div id="div_left_home1">
+       </div>
+
+       <div id="div_left_home2">
+       </div>
+
+       <div id="div__left_sec1">
+       </div>
+
+       <div id="div_left_sec2">
+       </div>
+
+   </div>
 <!-- main body. by arun -->
 <div id="div_content">
  <div id="div_content_home1" style="">
