@@ -42,13 +42,13 @@ Sample_project1
    </div>
 <!-- main body. by arun -->
 <div id="div_content">
- <div id="div_content_home1" style="">
+ <div id="div_content_home1" style="position:absolute; left:20%; top:10%; background:#000">
  </div>
- <div id="div_content_home2" style="">
+ <div id="div_content_home2" style="position:absolute; left:20%; top:10%; background:#000">
  </div>
- <div id="div_content_sec1" style="">
+ <div id="div_content_sec1" style="position:absolute; left:20%; top:10%; background:#000">
  </div>
- <div id="div_content_sec2" style="">
+ <div id="div_content_sec2" style="position:absolute; left:20%; top:10%; background:#000">
  </div>
 </div>
 
