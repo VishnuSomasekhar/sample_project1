@@ -23,6 +23,14 @@ Sample_project1
 
 <!-- main body. by arun -->
 <div id="div_content">
+ <div id="div_content_home1" style="">
+ </div>
+ <div id="div_content_home2" style="">
+ </div>
+ <div id="div_content_sec1" style="">
+ </div>
+ <div id="div_content_sec2" style="">
+ </div>
 </div>
 
 </div>
